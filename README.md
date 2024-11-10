@@ -1,7 +1,7 @@
 - 👋 Hi, We are @VORTEX-innovations
 - 👀 We are interested in bringing you real value and building creative projects.
 
-- 
+  
 
 - 📫 Contact us in the following
   Twitter : https://twitter.com/business_vortex
