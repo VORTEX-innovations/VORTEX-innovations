@@ -1,13 +1,13 @@
-- 👋 Hi, We are @VORTEX-innovations
-- 👀 We are interested in bringing you real value and building creative projects.
+- Hi, We are @VORTEX-innovations
+- We are interested in bringing you real value and building creative projects.
 
   
 
 - 📫 Contact us in the following
-  Twitter : https://twitter.com/business_vortex
+  Twitter : https://twitter.com/vortex_innovate
   Email : business.vortex.innovations@gmail.com
 
-- ⚡ Fun fact: We are always ready to innovate and present real value.
+- ⚡ Fun fact: We present real value.
 You should never miss out on our projects.
 
 <!---
